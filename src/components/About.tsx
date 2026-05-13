@@ -22,7 +22,7 @@ const features = [
     description: "Fresh products delivered to your doorstep",
   },
 ];
-heyyyyy there
+
 const About = () => {
   return (
     <section id="about" className="py-24 bg-background">
